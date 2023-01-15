@@ -1,5 +1,4 @@
 baseURL = 'http://web.mit.edu/dtemkin/www/'
-canonifyurls = true
 languageCode = 'en-us'
 title = "Diego Temkin's Athena Site"
 
@@ -51,11 +50,15 @@ title = "Diego Temkin's Athena Site"
   # activityDelay = 5 : deprecated
 
   description = """
+
   Hi!
-  Welcome to Diego Temkin's Athena website.
-  Here, you'll find a few links.
-  Happy exploring!
-  
+
+  My name is Diego Temkin, and I'm currently a first-year student at MIT.
+  This is my Athena site, where you'll find a few relevant links.
+  I might add more things here eventually, so check back.
+
+  Happy exploring! :D
+
   """
 
   # Note: If you want to use a Markdown file, you can use the following
