@@ -20,6 +20,6 @@ These are instructions for future me, so that I don't forget.
  2. Run `hugo server -w -D` to test your changes locally. If it looks fine, *make sure to check if the URL would work on the remote server*. If so, proceed.
  3. Run `hugo` to build the website. All static website files, such as `index.html` should be present in `./public/`.
  4. SSH into Athena using `ssh dtemkin@athena.dialup.mit.edu` (and do all the log-in stuff), navigate to the remove website folder located at `~/www/` and delete all files currently present by using `rm -r ./*`.
- 5. Back in your local machine, go into the `./public/` folder using `cd public` and copy all files to the remote website folder using the command `scp -r ./* dtemkin@athena.dialup.mit.edu:~/www/`.
+ 5. Back in your local machine, copy all files to the remote website folder using the command `scp -r ./public/ dtemkin@athena.dialup.mit.edu:~/www/`.
 
 Consider automating this in the future using Github Actions.
