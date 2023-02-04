@@ -71,9 +71,9 @@ theme = "hugo-theme-shell"
   folderName = "sites"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["LinkedIn", "https://www.linkedin.com/in/diego-temkin/"],
+    ["Personal Site", "https://diegotemkin.com"],
     ["GitHub", "https://github.com/dtemkin1"],
-    ["Email", "mailto:dtemkin@mit.edu"],
+    ["LinkedIn", "https://www.linkedin.com/in/diego-temkin/"],
     ["Twitter", "https://twitter.com/dtemkin1"],
     ["Instagram", "https://www.instagram.com/dtemkin1/"]
   ]
